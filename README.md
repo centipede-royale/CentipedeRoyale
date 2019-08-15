@@ -9,7 +9,8 @@
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
 | ![Long Tran](https://github.com/centipede-royale/CentipedeRoyale/blob/master/images/LongTran.png) | LT The Octocat | GitHub's Logo |
-| ![Syed Raza](https://github.com/centipede-royale/CentipedeRoyale/blob/master/images/SyedRaza.png) | SR The Octocat | GitHub's Logo ||                    |                  |               |
+| ![Syed Raza](https://github.com/centipede-royale/CentipedeRoyale/blob/master/images/SyedRaza.png) | SR The Octocat | GitHub's Logo |
+|                    |                  |               |
 |                    |                  |               |
 
 ----

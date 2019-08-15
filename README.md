@@ -1,7 +1,7 @@
 
 > Centipede Royale!
 
-> Azure Pipelines [![Build status](https://dev.azure.com/lontran/lontran/_apis/build/status/longttran.CentipedeRoyale?branchName=master)](https://dev.azure.com/lontran/lontran/_build?definitionId=1&branchName=master)]
+> [![Build Status](https://dev.azure.com/lontran/lontran/_apis/build/status/longttran.CentipedeRoyale?branchName=master)](https://dev.azure.com/lontran/lontran/_build/latest?definitionId=1&branchName=master)
 
 > Team Members: Long Tran, Syed Raza 
 

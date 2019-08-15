@@ -38,7 +38,7 @@ If you are interested in reporting/fixing issues and contributing directly to th
 ### Community
 
 Info on reporting bugs, getting help, finding third-party tools and sample apps,
-and more can be found in the [support document](https://github.com/centipede-royale/CentipedeRoyale/edit/master/README.md).
+and more can be found in the [support document](https://github.com/centipede-royale/CentipedeRoyale/blob/master/README.md).
 
 ### License
 

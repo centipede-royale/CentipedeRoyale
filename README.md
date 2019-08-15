@@ -17,7 +17,7 @@
 
 ### What is Centipede Royale?!
 
-Centipede Royale is a twist on the classic Snake game from the arcades and PCs!  Players take control of our centipedes (snakes) and attempt to 
+Centipede Royale is a twist on the classic Snake game from the arcades and PCs.  Players take control of our centipedes (snakes), building walls and fight to be the last centipede standing.
 
 
 

@@ -21,7 +21,7 @@ Centipede Royale is a twist on the classic Snake game from the arcades and PCs. 
 
 
 
-### running locally
+### Running Locally
 
 Install the latest [Node.js](http://nodejs.org) 8 Stable
 
@@ -30,3 +30,18 @@ Install the latest [Node.js](http://nodejs.org) 8 Stable
 `npm start`
 
 Open your web browser to `localhost:3000`
+
+### Contributing
+
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+
+### Community
+
+Info on reporting bugs, getting help, finding third-party tools and sample apps,
+and more can be found in the [support document](docs/tutorial/support.md#finding-support).
+
+### License
+
+[MIT](https://github.com/centipede-royale/CentipedeRoyale/blob/master/LICENSE)
+
+When using the CentipedeRoyale or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).

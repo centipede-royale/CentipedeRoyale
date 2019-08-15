@@ -1,9 +1,9 @@
 
-> Game name here
+> Centipede Royale!
 
-> Azure Pipelines badge here
+> Azure Pipelines [![Build status](#)
 
-> Team Members 
+> Team Members: Long Tran, Syed Raza 
 
 
 | Photo              | Name             | Role          |
@@ -13,6 +13,11 @@
 |                    |                  |               |
 
 ----
+
+### What is Centipede Royale?!
+
+Centipede Royale is a twist on the classic Snake game from the arcades and PCs!  Players take control of our centipedes (snakes) and attempt to 
+
 
 
 ### running locally

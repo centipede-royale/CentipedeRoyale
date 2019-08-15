@@ -20,3 +20,7 @@ The following is a set of guidelines for contributing to ghProfileSearch and its
  * [Documentation Styleguide](#)
 [Additional Notes](#)
  * [Issue and Pull Request Labels](#)
+ 
+## Code of Conduct
+
+This project and everyone participating in it is governed by the [Centipede Royale](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.

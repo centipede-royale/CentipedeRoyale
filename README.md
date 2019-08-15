@@ -1,7 +1,7 @@
 
 > Centipede Royale!
 
-> Azure Pipelines [![Build status](#)
+> Azure Pipelines [![Build status](#)]
 
 > Team Members: Long Tran, Syed Raza 
 

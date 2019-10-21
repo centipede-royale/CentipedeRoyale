@@ -1,9 +1,9 @@
 'use strict';
 
 const ServerConfig = {
-    MIN_FPS: 8,
-    STARTING_FPS: 8,
-    MAX_FPS: 8,
+    MIN_FPS: 15,
+    STARTING_FPS: 15,
+    MAX_FPS: 15,
     PLAYER_STARTING_LENGTH: 5,
     SPAWN_TURN_LEEWAY: 10,
     DEFAULT_STARTING_BOTS: 0,
